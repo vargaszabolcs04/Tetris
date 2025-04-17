@@ -1,0 +1,14 @@
+C:\Info\Atestat\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Info\Atestat\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Info\Atestat\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.Menu.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.Settings.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.End.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Debug\Tetris.Game.resources

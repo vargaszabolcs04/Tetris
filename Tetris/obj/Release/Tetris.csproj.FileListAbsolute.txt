@@ -1,0 +1,14 @@
+C:\Info\Atestat\Tetris\Tetris\bin\Release\Tetris.exe.config
+C:\Info\Atestat\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Info\Atestat\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.csproj.AssemblyReference.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.csproj.SuggestedBindingRedirects.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.Form1.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.Form2.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.Form3.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.Properties.Resources.resources
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.csproj.GenerateResource.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.exe
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.pdb
+C:\Info\Atestat\Tetris\Tetris\obj\Release\Tetris.Form4.resources
